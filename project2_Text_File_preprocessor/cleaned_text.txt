@@ -1,0 +1,16 @@
+This is my SECOND project
+I want to CLEAN some text maybe Or maybe not
+
+Anyway here is some RANDOM text
+Python is AWESOME or is it
+Numbers 10 20 30 40 50
+
+Wait Why are there so many spaces
+Why_are_there_underscores_here
+Special chars _  should be removed
+
+THIS LINE HAS TOO MANY SPACES
+this Line Has MiXeD CaSe And extra SPACES
+
+End of file Maybe not
+One more line before we END
