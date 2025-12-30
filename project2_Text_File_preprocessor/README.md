@@ -1,4 +1,4 @@
-<h2>Project 2</h2> : Text File Preprocessor Difficulty: 1/10 | Duration: 2-3 days| Tech: Python, String Methods, Regex
+<h2>Project 2</h2> Text File Preprocessor Difficulty: 1/10 | Duration: 2-3 days| Tech: Python, String Methods, Regex
 <br>
 What You Build: A program that reads text files, removes punctuation, converts to lowercase, removes extra spaces, and saves cleaned text to new file.
 <br>
