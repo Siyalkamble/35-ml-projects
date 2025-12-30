@@ -1,0 +1,8 @@
+{
+  "name": "Siyal",
+  "role": "Student",
+  "field": "Computer Science",
+  "goal": "Become an AI engineer",
+  "skills": ["Python", "Data Structures", "Machine Learning"],
+  "active": true
+}
