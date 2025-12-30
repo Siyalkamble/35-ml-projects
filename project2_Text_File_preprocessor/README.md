@@ -9,7 +9,6 @@ Exact Steps:<br>
 (!@#$%^&*()_+) <br>3. Convert all text to lowercase <br>4. Remove extra spaces
 (multiple spaces → single space) <br>5. Save cleaned text to new file 6. Show
 before/after comparison <br>
-Learning Goals: - String manipulation - Text cleaning techniques - Regular
-<br>expressions (regex) - File I/O with Python
+Learning Goals: - String manipulation - Text cleaning techniques - Regular expressions (regex) - File I/O with Python
 <br>Real-World Use: Data cleaning for any project, log file processing, preparing
 text for NLP
