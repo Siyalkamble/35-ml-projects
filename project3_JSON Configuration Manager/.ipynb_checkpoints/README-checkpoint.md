@@ -10,3 +10,7 @@ Learning Goals: - Working with JSON format - Python data structures (dicts)
 - File operations with JSON - Data validation basics<br>
 Real-World Use: Application configuration management, ML model hyper-
 parameters, API settings
+
+<h3>Problems that i faced while making this mini project</h3>
+1. I dont know how to read json file, I learn't that there is a module called json to read these json file
+<br>
