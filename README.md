@@ -1,4 +1,18 @@
 # 35 ML Projects 🚀
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
+[![Python](https://img.shields.io/badge/python-3.10+-blue?style=for-the-badge&logo=python)](https://www.python.org/)
+[![Status](https://img.shields.io/badge/Status-Active-green?style=for-the-badge)]()
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-Jan%202%2C%202026-blue?style=for-the-badge)]()
+[![Projects](https://img.shields.io/badge/Projects-35%2F35-purple?style=for-the-badge)]()
+[![Progress](https://img.shields.io/badge/Progress-5%2F35%20✅-orange?style=for-the-badge)]()
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)]()
+[![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)]()
+[![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)]()
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37726.svg?style=for-the-badge&logo=jupyter&logoColor=white)]()
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)]()
+[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)]()
+
+
 
 A comprehensive collection of **35 hands-on machine learning projects** spanning **computer vision, NLP, deep learning, and production ML systems**. Designed for engineers transitioning from fundamentals to production-grade AI infrastructure.
 <!--
