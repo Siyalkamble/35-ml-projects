@@ -40,6 +40,7 @@ Each project includes exact specifications, learning goals, and real-world appli
 > Last updated: January 2, 2026
 
 ---
+```bash
 ## 🚀 Quick Start
 
 Get up and running in **5 minutes**:
@@ -59,7 +60,7 @@ pip install -r requirements.txt
 # Run a project
 cd projects/01-csv-analyzer
 python main.py
-``` markdown
+``` 
 
 
 ---
@@ -122,7 +123,7 @@ python main.py
 
 
 ## 📂 Folder Structure
-
+```
 35-ml-projects/
 ├── README.md
 ├── requirements.txt
@@ -142,7 +143,7 @@ python main.py
 └── shared/
 ├── utils.py
 └── datasets/
-
+```
 ---
 ## 🔗 Resources & Links
 
@@ -156,8 +157,8 @@ python main.py
 ## 📝 Notes
 
 - Each project folder has its own README with detailed instructions
-- Estimated completion time: **6 months** (2-3 hours/day)
-- Projects 1-23 are for portfolio building; Projects 24-31 are resume-worthy
+- Projects 1-23 are for portfolio building;
+- Projects 24-31 are resume-worthy
 
 ---
 
@@ -172,22 +173,17 @@ python main.py
 
 ---
 
-✨ Status
-
-| Item         | Status          |
-| ------------ | --------------- |
-| Repository   | 🟢 Active       |
-| Last Updated | January 2, 2026 |
-| Progress     | 5/35 (14%) ✅    |
-| Next Focus   | Projects 6-10   |
-
-
 🤝 Contributing
 
 Found bugs? Have suggestions? Open an issue!
-📄 License
 
-MIT License - see LICENSE file for details
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE]([LICENSE](https://github.com/Siyalkamble/35-ml-projects/blob/main/License)) file for details.
+
 
 Happy coding! 🚀
+
+
+
 
