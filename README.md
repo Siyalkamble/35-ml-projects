@@ -28,6 +28,42 @@ Each project includes exact specifications, learning goals, and real-world appli
 
 ---
 
+## 📈 Progress Tracker
+
+| Metric | Count |
+|--------|-------|
+| **Completed** | 5/35 ✅ |
+| **In Progress** | 2/35 ⏳ |
+| **Planned** | 28/35 🔜 |
+| **Current Focus** | Projects 1-10 (Foundation) |
+
+> Last updated: January 2, 2026
+
+---
+## 🚀 Quick Start
+
+Get up and running in **5 minutes**:
+
+
+# Clone the repository
+git clone https://github.com/Siyalkamble/35-ml-projects.git
+cd 35-ml-projects
+
+# Create virtual environment
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run a project
+cd projects/01-csv-analyzer
+python main.py
+``` markdown
+
+
+---
+
 ## 📁 Projects Index
 
 ### 🟢 Phase 1: Foundation Projects (1-23)
@@ -85,6 +121,73 @@ Each project includes exact specifications, learning goals, and real-world appli
 | 35 | Model Optimization (Edge Deployment)        | ONNX, TensorRT, Raspberry Pi | 8/10       | 🔜 Planned  |      | 🏆 Mobile/IoT |
 
 
+## 📂 Folder Structure
+
+35-ml-projects/
+├── README.md
+├── requirements.txt
+├── projects/
+│ ├── 01-csv-analyzer/
+│ │ ├── notebook.ipynb
+│ │ ├── main.py
+│ │ ├── requirements.txt
+│ │ ├── results/
+│ │ │ ├── output.csv
+│ │ │ └── stats.txt
+│ │ └── README.md
+│ ├── 02-text-preprocessor/
+│ ├── 03-json-config/
+│ ├── 04-matrix-operations/
+│ └── 05-statistical-analysis/
+└── shared/
+├── utils.py
+└── datasets/
+
+---
+## 🔗 Resources & Links
+
+- **Datasets:** [Kaggle](https://kaggle.com) • [UCI ML](https://archive.ics.uci.edu/ml/) • [Hugging Face Datasets](https://huggingface.co/datasets)
+- **Models:** [Hugging Face Hub](https://huggingface.co/models) • [TensorFlow Hub](https://www.tensorflow.org/hub) • [PyTorch Hub](https://pytorch.org/hub/)
+- **Documentation:** [Scikit-learn](https://scikit-learn.org) • [TensorFlow](https://tensorflow.org) • [PyTorch](https://pytorch.org)
+- **Papers:** [ArXiv](https://arxiv.org) • [Papers with Code](https://paperswithcode.com)
+
+---
+
+## 📝 Notes
+
+- Each project folder has its own README with detailed instructions
+- Estimated completion time: **6 months** (2-3 hours/day)
+- Projects 1-23 are for portfolio building; Projects 24-31 are resume-worthy
+
+---
+
+## ✨ Status
+
+| Item | Status |
+|------|--------|
+| **Repository** | 🟢 Active |
+| **Last Updated** | January 2, 2026 |
+| **Progress** | 5/35 (14%) ✅ |
+| **Next Focus** | Projects 6-10 |
+
+---
+
+✨ Status
+
+| Item         | Status          |
+| ------------ | --------------- |
+| Repository   | 🟢 Active       |
+| Last Updated | January 2, 2026 |
+| Progress     | 5/35 (14%) ✅    |
+| Next Focus   | Projects 6-10   |
 
 
+🤝 Contributing
+
+Found bugs? Have suggestions? Open an issue!
+📄 License
+
+MIT License - see LICENSE file for details
+
+Happy coding! 🚀
 
