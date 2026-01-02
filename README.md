@@ -36,7 +36,7 @@ Each project includes exact specifications, learning goals, and real-world appli
 
 | #  | Project                       | Key Tech                   | Difficulty | Status        | Link                    | Concepts                              |
 | -- | ----------------------------- | -------------------------- | ---------- | ------------- | ----------------------- | ------------------------------------- |
-| 1  | CSV Data Analyzer             | Pandas, Python             | 1/10       | ✅ Completed  | [Code]([./projects/01/](https://github.com/Siyalkamble/35-ml-projects/tree/main/project%201%20csv%20analyzer))  | File I/O, DataFrames, Statistics      |
+| 1  | CSV Data Analyzer             | Pandas, Python             | 1/10       | ✅ Completed  | [Code](https://github.com/Siyalkamble/35-ml-projects/tree/main/project%201%20csv%20analyzer)  | File I/O, DataFrames, Statistics      |
 | 2  | Text File Preprocessor        | Python, Regex              | 1/10       | ✅ Completed  | [Code](./projects/02/)  | String manipulation, Text cleaning    |
 | 3  | JSON Configuration Manager    | JSON, Python               | 1/10       | ✅ Completed  | [Code](./projects/03/)  | Data validation, File operations      |
 | 4  | Matrix Operations Calculator  | NumPy, Matplotlib          | 2/10       | ✅ Completed  | [Code](./projects/04/)  | Linear algebra, Matrix math           |
