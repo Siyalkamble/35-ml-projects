@@ -7,9 +7,7 @@ Exact Steps:<br> 1. Create two 3x3 matrices using NumPy<br> 2. Matrix addition
 number)<br> 5. Matrix multiplication (dot product)<br> 6. Transpose (flip rows and
 columns)<br> 7. Calculate determinant <br>8. Visualize matrices as heatmaps using
 Matplotlib<br>
-Learning Goals: - NumPy arrays and operations - Linear algebra fundamen-
-tals - Matrix math (critical for understanding neural networks later) - Visual-
-ization of matrices<br>
+Learning Goals: - NumPy arrays and operations - Linear algebra fundamentals - Matrix math (critical for understanding neural networks later) - Visualization of matrices<br>
 
 
 <h3>Problems that i faced while making this mini project</h3>
