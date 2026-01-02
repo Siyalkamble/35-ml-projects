@@ -170,7 +170,7 @@ Found bugs? Have suggestions? Open an issue!
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE]([LICENSE](https://github.com/Siyalkamble/35-ml-projects/blob/main/License)) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Siyalkamble/35-ml-projects/blob/main/License) file for details.
 
 
 Happy coding! 🚀
