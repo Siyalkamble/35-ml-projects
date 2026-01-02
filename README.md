@@ -1,7 +1,7 @@
 # 35 ML Projects 🚀
 
 A comprehensive collection of **35 hands-on machine learning projects** spanning **computer vision, NLP, deep learning, and production ML systems**. Designed for engineers transitioning from fundamentals to production-grade AI infrastructure.
-
+<!--
 ## 📈 Key Achievements
 
 | Metric | Achievement |
@@ -11,7 +11,7 @@ A comprehensive collection of **35 hands-on machine learning projects** spanning
 | **Deployed Systems** | 3 production APIs (Healthcare, YOLO, Fraud) |
 | **Infrastructure** | Docker containerization, GitHub Actions CI/CD |
 | **LLM Experience** | RAG chatbot, fine-tuned transformers, embeddings |
-
+-->
 **📊 Portfolio Impact:** Projects 1-23 build core understanding. Projects 24-31 are resume-ready (real business problems). Projects 32-35 are premium (FAANG-level engineering).
 
 ---
