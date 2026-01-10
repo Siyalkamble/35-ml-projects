@@ -94,7 +94,7 @@ python main.py
 | 5  | Statistical Analysis Tool     | NumPy, Pandas, SciPy       | 2/10       | ✅ Completed  | [Folder Link](https://github.com/Siyalkamble/35-ml-projects/tree/main/project%205%20Statistical%20Analysis%20Tool)  | Normalization, Z-score, Min-Max       |
 | 6  | Data Visualizer               | Matplotlib, Seaborn        | 3/10       | ✅ Completed |  [Folder Link](https://github.com/Siyalkamble/35-ml-projects/tree/main/project%206%20Data%20Visualizer%20(Matplotlib))                      | Charts, Subplots, Plot customization  |
 | 7  | Simple API Consumer           | Requests, JSON             | 3/10       | ✅ Completed |  [Folder Link](https://github.com/Siyalkamble/35-ml-projects/tree/main/project%207%20Simple%20API%20Consumer)                       | HTTP requests, API parsing            |
-| 8  | House Price Predictor         | Scikit-learn, Pandas       | 3/10       | 🔜 Planned    |                         | First ML – Linear regression          |
+| 8  | House Price Predictor         | Scikit-learn, Pandas       | 3/10       | ⏳ In progress    |                         | First ML – Linear regression          |
 | 9  | Email Spam Classifier         | Scikit-learn, NLTK         | 4/10       | 🔜 Planned    |                         | Text vectorization, Naive Bayes       |
 | 10 | Iris Flower Classification    | Scikit-learn               | 4/10       | 🔜 Planned    |                         | Decision Tree, Random Forest, KNN     |
 | 11 | Customer Churn Predictor      | Scikit-learn, Feature Eng  | 4/10       | 🔜 Planned    |                         | Feature engineering, Data imputation  |
