@@ -1,0 +1,5 @@
+Column,Mean,Median,Mode,Sum,Count
+sepal_length,5.84,5.8,5.0,876.5,150
+sepal_width,3.05,3.0,3.0,458.1,150
+petal_length,3.76,4.35,1.5,563.8,150
+petal_width,1.2,1.3,0.2,179.8,150

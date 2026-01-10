@@ -16,3 +16,4 @@ Learning Goals: <br>
 - Saving plots
  <h3>Problems that I faced</h3><br>
 1. The problem with my sales data was as a begineer when I try to plot the graph it was ploting over for each indivisual stores so I need to plot over each store <br>
+
