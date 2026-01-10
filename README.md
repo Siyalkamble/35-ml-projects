@@ -46,7 +46,7 @@ Each project includes exact specifications, learning goals, and real-world appli
 
 | Metric | Count |
 |--------|-------|
-| **Completed** | 5/35 ✅ |
+| **Completed** | 7/35 ✅ |
 | **In Progress** | 2/35 ⏳ |
 | **Planned** | 28/35 🔜 |
 | **Current Focus** | Projects 1-10 (Foundation) |
@@ -92,8 +92,8 @@ python main.py
 | 3  | JSON Configuration Manager    | JSON, Python               | 1/10       | ✅ Completed  | [Folder Link](https://github.com/Siyalkamble/35-ml-projects/tree/main/project%203%20JSON%20Configuration%20Manager)  | Data validation, File operations      |
 | 4  | Matrix Operations Calculator  | NumPy, Matplotlib          | 2/10       | ✅ Completed  | [Folder Link](https://github.com/Siyalkamble/35-ml-projects/tree/main/project%204%20Matrix%20Operations%20Calculator%20)  | Linear algebra, Matrix math           |
 | 5  | Statistical Analysis Tool     | NumPy, Pandas, SciPy       | 2/10       | ✅ Completed  | [Folder Link](https://github.com/Siyalkamble/35-ml-projects/tree/main/project%205%20Statistical%20Analysis%20Tool)  | Normalization, Z-score, Min-Max       |
-| 6  | Data Visualizer               | Matplotlib, Seaborn        | 3/10       | ⏳ In progress |                         | Charts, Subplots, Plot customization  |
-| 7  | Simple API Consumer           | Requests, JSON             | 3/10       | ⏳ In progress |                         | HTTP requests, API parsing            |
+| 6  | Data Visualizer               | Matplotlib, Seaborn        | 3/10       | ✅ Completed |                         | Charts, Subplots, Plot customization  |
+| 7  | Simple API Consumer           | Requests, JSON             | 3/10       | ✅ Completed |                         | HTTP requests, API parsing            |
 | 8  | House Price Predictor         | Scikit-learn, Pandas       | 3/10       | 🔜 Planned    |                         | First ML – Linear regression          |
 | 9  | Email Spam Classifier         | Scikit-learn, NLTK         | 4/10       | 🔜 Planned    |                         | Text vectorization, Naive Bayes       |
 | 10 | Iris Flower Classification    | Scikit-learn               | 4/10       | 🔜 Planned    |                         | Decision Tree, Random Forest, KNN     |
