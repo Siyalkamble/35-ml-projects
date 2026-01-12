@@ -54,12 +54,12 @@ Each project includes exact specifications, learning goals, and real-world appli
 > Last updated: January 2, 2026
 
 ---
-```bash
+
 ## 🚀 Quick Start
 
 Get up and running in **5 minutes**:
 
-
+```bash
 # Clone the repository
 git clone https://github.com/Siyalkamble/35-ml-projects.git
 cd 35-ml-projects
