@@ -16,4 +16,5 @@ Real-World Use: Real estate pricing, property valuation systems, market
 analysis<br>
 
 <h2>Problems that I Faced</h2>
-1. Not understanding the math behind ML, I knew that Math is crusial for ML but by actually applying the Math I understand how ML actually use Math Not theory but it's actual
+1. Not understanding the math behind ML, I knew that Math is crusial for ML, but by actually applying the Math I understand how ML actually use Math, I Use Math In Cost Function and Gradient descent, not theory but it's actual applications 
+2. 
