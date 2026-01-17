@@ -1,4 +1,4 @@
-<h1>Project 8: House Price Predictor ￿ YOUR FIRST ML PROJECT </h1>
+<h1>Project 8: House Price Predictor  </h1>
 Tech: Scikit-learn, Pandas, Matplotlib <br>
 What You Build:<br> Load house price dataset, split into train/test, train linear regression model, make predictions, calculate accuracy (R² score), plot predictions vs actual prices.<br>
 Exact Steps:<br>
