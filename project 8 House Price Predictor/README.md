@@ -18,11 +18,9 @@ Real-World Use: Real estate pricing, property valuation systems, market
 analysis<br>
  <h2>Topic that I learned During this Project</h2>
  
- <h4> 1. What is One Hot Encoding</h4>
-we Basically convert each feature into a vector like [1,0,0,0] -> for one column
+1. One Hot Encoding we Basically convert each feature into a vector like [1,0,0,0] -> for one column
 
-
-
+2. Specifically I use pandas get_dummies function 
 
 
 <h2>Problems that I Faced</h2>
