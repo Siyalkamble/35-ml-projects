@@ -1,7 +1,7 @@
 <h1>Project 8: House Price Predictor  </h1>
 Tech: Scikit-learn, Pandas, Matplotlib <br>
-What You Build:<br> Load house price dataset, split into train/test, train linear regression model, make predictions, calculate accuracy (R² score), plot predictions vs actual prices.<br>
-Exact Steps:<br>
+<b>What You Build:</b><br> Load house price dataset, split into train/test, train linear regression model, make predictions, calculate accuracy (R² score), plot predictions vs actual prices.<br>
+<b>Exact Steps:</b><br>
 
 1. Load Kaggle house price dataset 
 2. Choose features (size, bedrooms, bathrooms, age) 
@@ -22,11 +22,15 @@ analysis<br>
 
 2. Specifically I use pandas get_dummies function 
 
+3. How to avoid Dummy variable trap
 
 <h2>Problems that I Faced</h2>
 
-1. Not understanding the math behind ML, I knew that Math is crusial for ML, but by actually applying the Math I understand how ML actually use Math, I Use Math In Cost Function and Gradient descent, not theory but it's actual applications 
-2. I need to know How to do enconding on Nominal catergory, I know that There are 2 types Nominal and ordinal. Ordinal means the value are like a ranking system greater the number better. But the Nominal works like Color or gender differnt but not one superior or like that 
+1. Not understanding the math behind ML, I knew that Math is crusial for ML, but by actually applying the Math I understand how ML actually use Math, I Use Math In Cost Function and Gradient descent, not theory but it's actual applications
+
+2. I need to know How to do enconding on Nominal catergory, I know that There are 2 types Nominal and ordinal. Ordinal means the value are like a ranking system greater the number better. But the Nominal works like Color or gender differnt but not one superior or like that
+
 3. So I need to do Nominal Encoding on this data, Specifically One-Hot-Encoding. since my object data-types are Nominal 
 
+4. Learn how to avoid dummy variable trap
 
