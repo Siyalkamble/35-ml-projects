@@ -32,5 +32,5 @@ analysis<br>
 
 3. So I need to do Nominal Encoding on this data, Specifically One-Hot-Encoding. since my object data-types are Nominal 
 
-4. Learn how to avoid dummy variable trap
+4. Learn how to avoid dummy variable trap.
 
