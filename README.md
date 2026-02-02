@@ -14,7 +14,7 @@
 
 
 
-A comprehensive collection of **35 hands-on machine learning projects** spanning **computer vision, NLP, deep learning, and production ML systems**. Designed for engineers transitioning from fundamentals to production-grade AI infrastructure.
+A comprehensive collection of **35 hands-on machine learning projects** from Basics to spanning **computer vision, NLP, deep learning, and production ML systems**. Designed for engineers transitioning from fundamentals to production-grade AI infrastructure.
 <!--
 ## 📈 Key Achievements
 
