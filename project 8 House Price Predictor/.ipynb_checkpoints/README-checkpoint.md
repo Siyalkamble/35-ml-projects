@@ -34,3 +34,40 @@ analysis<br>
 
 4. Learn how to avoid dummy variable trap.
 
+
+
+Project 1: House Price Prediction (Advanced Beginner)
+
+    Deadline: Feb 9 (3 weeks)
+
+    Goals:
+
+        Data: Load, clean, visualize (1 week)
+
+        Model: Linear regression (baseline) → polynomial → regularization (L1/L2) (1.5 weeks)
+
+        Math learning: Dot products, gradients, loss functions, overfitting (ongoing, 15-20 mins/day during project time)
+
+        Evaluation: R², RMSE, cross-validation, why they matter (1 week)
+
+        Outcome: You can explain "why L2 regularization prevents overfitting" in 2 minutes to an interviewer
+How to Track This (Weekly)
+
+Every Sunday, answer:
+
+Project Progress:
+
+    What code did you ship this week?
+
+    What math concept did you learn? (Can you explain it in 2 mins?)
+
+    What broke? How did you debug?
+
+Example (Week 1 of Project 1):
+
+    Code: "Loaded dataset, did EDA (histograms, correlations), created 5 visualizations"
+
+    Math: "Understood dot products—why we multiply features by weights and sum them"
+
+    Debug: "Confused about pandas indexing, spent 30 mins, now I get it"
+
